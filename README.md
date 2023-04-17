@@ -1,4 +1,4 @@
-# VBA macro to highlight text in bionic reading style in Microsoft Word
+# VBA macro to highlight text with bionic reading style in Microsoft Word
 
 This repository contains a VBA macro that allows you to highlight text with the bionic reading style in Word with vba.
 
@@ -8,7 +8,7 @@ The bionic reading style is based on research on how the human brain processes v
 
 If you have any concerns, questions, or comments about this repository, feel free to contact me by email at rubend18@hotmail.com. I am happy to answer any questions or comments you may have. Thank you for your interest in this project!
 
-# Macro en VBA para resaltar texto en el estilo de lectura biónica en Microsoft Word
+# Macro en VBA para resaltar texto con el estilo de lectura biónica en Microsoft Word
 
 Este repositorio contiene una macro en VBA que permite resaltar texto con el estilo bionic reading en Word con vba.
 
